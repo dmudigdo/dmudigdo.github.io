@@ -7,7 +7,7 @@ While looking through [rental properties on realestate.com.au](https://www.reale
 
 ## Finding the agent name in the HTML file
 
-To begin, given a single page of listing results, I needed to find the text corresponding to the agent name in each listing panel. Inspecting the HTML of a listing panel, I found the agent logo `img` tag with the class `branding__image`. This `img` tag had an `alt` attribute that consistently contained the agent name (in the case below, it is 'Xceed Real Estate - HERDSMAN'):
+It's always good to break down a problem into manageable chunks (and then put it together at the end and hope it doesn't fall apart). So to begin with, given a single page of listing results, I needed to find the text corresponding to the agent name in each listing panel. Inspecting the HTML of a listing panel, I found the agent logo `img` tag with the class `branding__image`. This `img` tag had an `alt` attribute that consistently contained the agent name (in the case below, it is 'Xceed Real Estate - HERDSMAN'):
 
 ```html
 <img class="branding__image" alt="Xceed Real Estate - HERDSMAN" src="downloaded1_files/logo_011.png">
@@ -54,7 +54,7 @@ I had previously [scraped jazzstandards.com](https://github.com/dmudigdo/jazzsta
 print(exfile.status_code)
 ```
 
-However this gave an error. A [429](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429) ('Too many requests') in fact. This puzzled me for a while, because the downloaded page worked fine just then. And I only made one request! It seemed that realestate.com.au had a way of detecting bots (automatic web crawlers) that jazzstandards.com and Wikipedia did’t. After consulting the online oracles at stackoverflow.com and elsewhere, it turned out that my code triggered a 429 because it didn’t send the headers that a browser would have.
+However, this gave an error. A [429](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429) ('Too many requests') in fact. This puzzled me for a while, because the downloaded page worked fine just then. And I only made one request! It seemed that realestate.com.au had a way of detecting bots (automatic web crawlers) that jazzstandards.com and Wikipedia did’t. After consulting the online oracles at stackoverflow.com and elsewhere, it turned out that my code triggered a 429 because it didn’t send the headers that a browser would have.
 
 Getting headers is straightforward: go to a webpage, open the Inspector, and go to the Network tab. There, find the entry corresponding to the HTML file, right click, copy as cURL and paste it into [curlconverter.com](http://curlconverter.com). This will give you headers that act as a ['these are not the droids you are looking for'](https://www.youtube.com/watch?v=532j-186xEQ). But pasting this into my code, it still didn’t work! Still got a 429. The curlconverter.com output did however have a cookies entry that I hadn't copy-pasted (only did the headers). Sure enough, when I copy-pasted both the headers and the cookies from curlconverter.com into my code, it worked! Ah, the relieving [200 error code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200) ('OK). Here is the code improved from the previous one:
 
@@ -66,9 +66,7 @@ cookies = lots_of_other_stuff_from_curlconverter.com
 print(exfile.status_code)
 ```
 
-
-
-I later found out that the header-cookie combination expired, not sure how long later exactly, but the next day the header-cookie gave another 429, and I had to obtain a fresh header-cookie for it to work again.
+I later found out that the header-cookie combination expired in time. Not sure how long later exactly, but by the next day the header-cookie gave another 429, and I had to obtain a fresh header-cookie for it to work again.
 
 ## Automating the navigation
 
