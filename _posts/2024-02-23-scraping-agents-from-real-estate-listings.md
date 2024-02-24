@@ -50,7 +50,7 @@ It got what I wanted from the first downloaded page of results (without having t
 I had previously [scraped jazzstandards.com](https://github.com/dmudigdo/jazzstandards1000) and Wikipedia without issues, so I got straight to it, starting with just page 1 of the results to test:
 
 ```python
-‌exfile = requests.get("https://www.realestate.com.au/rent/in-carlisle,+wa+6101/list-1",headers=headers,cookies=cookies)
+‌exfile = requests.get("https://www.realestate.com.au/rent/in-carlisle,+wa+6101/list-1")
 print(exfile.status_code)
 ```
 
