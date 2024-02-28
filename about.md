@@ -7,4 +7,6 @@ My first ever blog article was written in 2005. There was plenty to write about-
 
 Fast forward almost 20 years since my last blog article, I am having another go at it. My wife [Juliet](https://julietpang.com){:target="_blank"} suggested that I write about what I am currently most passionate about. So here it is, 'Musings on Technology and Sustainability', let's see if this gets past 5 posts. And I hope you get something out of it! :)
 
-DD 25.02.2024
+Didi  
+25.02.2024  
+Perth, Australia
