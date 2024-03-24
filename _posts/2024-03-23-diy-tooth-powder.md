@@ -3,7 +3,6 @@ layout: post
 title: "Reducing Plastic Use with DIY Tooth Powder"
 categories: eco-household
 ---
-# Reducing Plastic Use by Using DIY Tooth Powder
 
 There are simple steps one can take to reduce plastic use in our daily habits. A quick one that comes to mind is using soap bars instead of body wash from a pump-action plastic container. Another household plastic use that can be addressed is toothpaste. Unfortunately, unlike soap bars, commercial toothpaste does not come in cardboard boxes. So one approach is to make your own toothpaste, and just keep refilling the same container.
 
