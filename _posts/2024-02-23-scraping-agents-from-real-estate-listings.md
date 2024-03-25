@@ -25,7 +25,7 @@ exsoup = bs4.BeautifulSoup(exfile,'html.parser')
 agents = exsoup.find_all("img", {"class": "branding__image"})
 
 for agent in agents:
-    print(agents['alt'])
+    print(agent['alt'])
 ```
 
 So far so good, this printed out all the agent names on a single downloaded page.
