@@ -27,6 +27,14 @@ Looking around the 'net, I found a simple recipe for tooth powder with 3 ingredi
 
 **Activated Charcoal** - I didn’t want to go too hard on this, because although as I mentioned it is added to commercial toothpaste as a stain-removing additive, it can also [wear down your tooth enamel](https://www.webmd.com/oral-health/what-to-know-about-activated-charcoal-whitening).
 
+<a href="https://lh3.googleusercontent.com/pw/AP1GczODWkA0LU6BiVco6B40CRY4yafbbCqVsWFaeyIBvN65zI__9yUY7Cw1RvDX1F9hVeY3PU5Ag3X-hbbUcnJtbFpurNUwiZMtNH8M8-9saf_aJTuYkYk=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczODWkA0LU6BiVco6B40CRY4yafbbCqVsWFaeyIBvN65zI__9yUY7Cw1RvDX1F9hVeY3PU5Ag3X-hbbUcnJtbFpurNUwiZMtNH8M8-9saf_aJTuYkYk=w600-h360-p-k" /> </a>
+
 After some experimentation, I settled for a teaspoon each of bicarb, bentonite clay and xylitol mixed in with a quarter teaspoon (or less) of activated charcoal, all mixed into a small 50 ml takeaway sauce container.
 
 And there you have it, DIY tooth powder! It will significantly reduce your oral care related plastic use and is fun to make. One thing I should add is that if this is your first time using tooth powder, be warned: it gets a bit messy! But after a while you will get used to the consistency and be more careful than you would with toothpaste.
+
+<a href="https://lh3.googleusercontent.com/pw/AP1GczOXif4-TIZyisVDeOgl1P-Efol-4onVEeWoFg3zy_p5W09qzxPI6XKsnc2HaIv9f2kHptdr9Yr_WvxP-hfbIpVcSpZc9aAM1pWQ43zvFpbGEo14I6k=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczOXif4-TIZyisVDeOgl1P-Efol-4onVEeWoFg3zy_p5W09qzxPI6XKsnc2HaIv9f2kHptdr9Yr_WvxP-hfbIpVcSpZc9aAM1pWQ43zvFpbGEo14I6k=w600-h315-p-k" /> </a>
+
+<a href="https://lh3.googleusercontent.com/pw/AP1GczOdcrMl-0q2avkIdNg-vla4_U76xvKGwK41Tn8WTU2H61v4-cFYHdk8m5Lsq5n4Z4nbG0O1G_0tHEMojgXHOxgShogAdTkYserezqhxdP0h3Eva9t0=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczOdcrMl-0q2avkIdNg-vla4_U76xvKGwK41Tn8WTU2H61v4-cFYHdk8m5Lsq5n4Z4nbG0O1G_0tHEMojgXHOxgShogAdTkYserezqhxdP0h3Eva9t0=w600-h315-p-k" /> </a>
+
+
