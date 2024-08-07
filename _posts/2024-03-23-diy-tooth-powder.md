@@ -19,13 +19,13 @@ I had seen commercial tooth powder in an eco-shop, but I never considered sing i
 
 Looking around the 'net, I found a simple recipe for tooth powder with 3 ingredients: bicarb, bentonite clay and xylitol. To add to that, I had seen commercial toothpaste boasting that it 'contained activated charcoal', so I thought why not add that to the mix. Now I had:
 
-**Bicarb** - Ah yes, good old bicarb alias bicarbonate of soda, it cleans mattresses, carpets, pots and pans and so on. Intuitively one might think that it is too abrasive for teach, but [not so according the American Dental Association](https://jada.ada.org/article/S0002-8177(17)30812-7/fulltext).
+**Bicarb** - Ah yes, good old bicarb alias bicarbonate of soda, it cleans mattresses, carpets, pots and pans and so on. Intuitively one might think that it is too abrasive for teach, but [not so according the American Dental Association](https://jada.ada.org/article/S0002-8177(17)30812-7/fulltext){:target=”_blank”}.
 
-**Bentonite Clay** - This is aged volcanic ash that has been used for its super-absorbent qualities [for millenea](https://www.webmd.com/a-to-z-guides/bentonite-clay-benefits).
+**Bentonite Clay** - This is aged volcanic ash that has been used for its super-absorbent qualities [for millenea](https://www.webmd.com/a-to-z-guides/bentonite-clay-benefits){:target=”_blank”}.
 
-**Xylitol** - As I mentioned, my first attempt with bicarb and olive oil gave a biting bicarb taste was overpowering and unpleasant. Adding [xylitol](https://en.wikipedia.org/wiki/Xylitol) as a non-sugar sweetner to the mix helps alleviate this.
+**Xylitol** - As I mentioned, my first attempt with bicarb and olive oil gave a biting bicarb taste was overpowering and unpleasant. Adding [xylitol](https://en.wikipedia.org/wiki/Xylitol){:target=”_blank”} as a non-sugar sweetner to the mix helps alleviate this.
 
-**Activated Charcoal** - I didn’t want to go too hard on this, because although as I mentioned it is added to commercial toothpaste as a stain-removing additive, it can also [wear down your tooth enamel](https://www.webmd.com/oral-health/what-to-know-about-activated-charcoal-whitening).
+**Activated Charcoal** - I didn’t want to go too hard on this, because although as I mentioned it is added to commercial toothpaste as a stain-removing additive, it can also [wear down your tooth enamel](https://www.webmd.com/oral-health/what-to-know-about-activated-charcoal-whitening){:target=”_blank”}.
 
 <a href="https://lh3.googleusercontent.com/pw/AP1GczODWkA0LU6BiVco6B40CRY4yafbbCqVsWFaeyIBvN65zI__9yUY7Cw1RvDX1F9hVeY3PU5Ag3X-hbbUcnJtbFpurNUwiZMtNH8M8-9saf_aJTuYkYk=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczODWkA0LU6BiVco6B40CRY4yafbbCqVsWFaeyIBvN65zI__9yUY7Cw1RvDX1F9hVeY3PU5Ag3X-hbbUcnJtbFpurNUwiZMtNH8M8-9saf_aJTuYkYk=w600-h360-p-k" /> </a>
 
