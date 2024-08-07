@@ -7,7 +7,7 @@ comments: true
 
 [Garden nasturtium](https://en.wikipedia.org/wiki/Tropaeolum_majus){:target=”_blank”} is a decorative ground cover plant that originated in the Andes Mountains South America. I planted some in my segment of the driveway of the block of units where I live, to stop the more unsightly weeds from growing (nasturtium is an invasive species in several countries, so can be considered a sightly weed). Recently at the weekly discussion group that I attend at the [South Perth Learning Centre](http://splc.org.au){:target=”_blank”}, a fellow member spoke of edible weeds and included nasturtium in her presentation.
 
-Having an interest in sustainability, I had to try and cook the nasturtium that was growing abundantly in my driveway. I had already experimented with growing and eating my own herbs ([parsley and coriander](https://musiclessons.didi.com.au/parsley/){:target=”_blank”}), and was ready to try something more substantial. I had also read about the [nutritional benefits of nasturtium](https://draxe.com/nutrition/nasturtium/){:target=”_blank”}.
+Having an interest in sustainability, I had to try and cook the nasturtium that was growing abundantly in my driveway. I had already experimented with growing and eating my own herbs since 2018 ([parsley and coriander](https://musiclessons.didi.com.au/parsley/){:target=”_blank”}), and was ready to try something more substantial. I had also read about the [nutritional benefits of nasturtium](https://draxe.com/nutrition/nasturtium/){:target=”_blank”}.
 
 The result was to me something like a cross between watercress and kale, it worked well as a side to scrambled eggs.
 
