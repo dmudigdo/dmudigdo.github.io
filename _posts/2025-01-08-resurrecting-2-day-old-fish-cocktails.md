@@ -4,7 +4,7 @@ title: "Resurrecting 2-Day Old Fish Cocktails"
 categories: eco-household
 comments: true
 ---
-Food waste is a problem. in Australia alone annually we throw out [7.6 million tonnes of food costing $36.6 billion](https://www.abc.net.au/news/rural/2023-07-10/food-waste-costs-australian-households-3000-dollars-a-year/102574878){:target="_blank"}, 70% of which could have been eaten. Every little initiative counts in the war against food waste, and I would like to share my 200g contribution to this 7.6 million tonne problem.
+Food waste is a growing environmental problem. In Australia alone annually we throw out [7.6 million tonnes of food costing $36.6 billion](https://www.abc.net.au/news/rural/2023-07-10/food-waste-costs-australian-households-3000-dollars-a-year/102574878){:target="_blank"}, 70% of which could have been eaten. Every little initiative counts in the war against food waste, and I would like to share my 200g contribution to this 7.6 million tonne problem.
 
 At around Christmas time last year, one of the participants of the monthly volunteer-run [Repair Cafe Belmont](https://www.facebook.com/repaircafebelmont){:target="_blank"} session brought in a 1 metre long tray of chips and fish cocktails. He said it was leftover from a Christmas party that morning. We all tucked in, but there was still much left, I was persuaded to bring some home, and being a food waste activist, I complied.
 
