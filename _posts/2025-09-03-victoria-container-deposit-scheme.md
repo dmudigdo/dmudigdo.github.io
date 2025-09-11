@@ -17,7 +17,7 @@ I moved on to another bottle shop, Tower Hotel. It was not obvious where the CDS
 
 ## Scouts Victoria CDS Depot - Burwood
 
-I happen to work near a CDS depot, so for my next batch of containers collected from my apartment block, I visited the Scouts Victoria CDS Depot in Burwood (this is in CDS East, operated by Return-It). I was greeted by Sophie who explained the process to me. She started the machine with her access card, and I placed my containers one by one, as the conveyer belt whizzed them away (very ASMR). I wondered if any of my aluminium cans would end up in an aeroplane. I stopped the machine when I was done, and it printed me a docket. Took the docket to the redemption machine and ka-ching, out came the cash.
+I happen to work near a CDS depot, so for my next batch of containers collected from my apartment block, I visited the Scouts Victoria CDS Depot in Burwood (this is in CDS East, operated by Return-It). I was greeted by Sophie who explained the process to me. She started the machine with her access card, and I placed my containers one by one, as the conveyer belt whizzed them away ([https://photos.app.goo.gl/1hmW5HKDmtkei4C39](very ASMR){:target="blank"}). I wondered if any of my aluminium cans would end up in an aeroplane. I stopped the machine when I was done, and it printed me a docket. Took the docket to the redemption machine and ka-ching, out came the cash.
 
 So it seems that your mileage may vary. The depots look like your best bet, but they tend to only be in light industry suburbs. The bottle shops can be handy, if they haven't happened to abandon the scheme (but are still on the site register).
 
