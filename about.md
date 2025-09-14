@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Didi Mudigdo
 permalink: /about/
 ---
 
-![Didi headshot](/assets/images/headshot.jpg "Didi headshot").
+![Didi Mudigdo headshot](/assets/images/headshot.jpg "Didi headshot").
 
 My first ever blog article was written in 2005. There was plenty to write about--I had just started a 3-month residency at a jazz club in Shanghai as pianist for [Nikki Doll and The Voodoo Blue](https://musiclessons.didi.com.au/img/Nikki800px.jpg){:target="_blank"}. It was my first time in mainland China, where I would spend most of the next 4 years. That blog was quite primitive, written on a single hand-coded HTML file, with a URL that was distributed to my gig mailing list at the time. It lasted about 4-5 posts. About two years later, I went all hi-tech, and upgraded to this newfangled dynamic CMS called [WordPress](https://wordpress.org/documentation/wordpress-version/version-2-1/)){:target="_blank"}. My blog 'articles' were however more [ads for gigs](http://didi.com.au/pre2012/?paged=3){:target="_blank"} than actual articles.
 
