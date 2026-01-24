@@ -1,4 +1,10 @@
 <div align="center">
+  <p>These are my edits on the Minima theme, feel free to look through it to learn Minima/Jekyl. One small
+    <s>hack</s> customisation that I did: I wanted to get some HTML in the site description
+    (to show off that I used GitHub and therefore know a bit of coding). But I couldn't figure
+    out how to do it using the <code>_config.yml</code> (obviously don't know enough coding),
+    so I hard-coded it into the <code>footer.html</code> 💪. - Didi</p>
+  <hr>
   <p><em><strong>Disclaimer:</strong> The information here may vary depending on the version you're using.<br/>
   Please refer to the <code>README.md</code> bundled within the theme-gem for information specific to your version or by pointing
   your browser to the Git tag corresponding to your version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md.<br/>
