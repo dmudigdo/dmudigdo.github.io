@@ -26,3 +26,29 @@ So, after several weeks of comfortably using it in the daytime but nights of sli
 ![The kickstand that doubles as a handle when held upside-down](https://lh3.googleusercontent.com/pw/AP1GczMHWItao_mKWYTKq4dwuxL7aFm5vGHGme9sQsAF7Xy2qJRmo5LK--oVBO8unv1RKLuycljs49wjZkV-xx3LPahqqJCR_YSCyySUfenS01bqV5tM0gSfDe0He9ldozVGLpwClYomIVgBdFLjx3wUy_M_L-h_3MOpcBUDPmzWimtlQMch2c02GjUqFksXab_7x6Lb_5kZ7zwsPPs6ePDpA67RHz52K27FIdFQbrEEnpZTg37r6dxd4p-RA02WVzTlvQQpapNSIukKQ1RPk5dtI-1HZY6upwqX3eTwNzvHeg2dPpUn4nGYj82UiDQN9MIOiYtXK_pMV10gvDuSxa9T1Lij1Wn5m8O1yc1gQBcjy6Hlnn7ytz7nncrZtyJNOvItj2D80sTSaLXHHKpZwWYfbsDGTilE47IkfdE5zBx_TtdVVdkcoW-unLnTtj3wmdC0gOgFtsI1tEk6fHsOh9uJ67JbXtCAFoQU4z8KHpndaZ_ApCrJRK4pKInvPjShvlqqsM4Z_86yWHZOz5jx3USN_dAyXsRPpCgrgF4SpcDR35VgFlnXvbF_SSzCSax6ZXZWTuj71cOJofsBg57CFcxyFqCfLeOgncRf3QRUYKz_8clkReCH-0OxiClHkLe4LvNqUhrzEj7VHx0q_9wJY1ZZPpbytiS35Y8cpcKEnnPw82xzFzVI_qGHQYU-SJj0SFOnN7J5XZ4ynDYvgAJwGptsTK_YMPHW7Tjg8N8pGmzsew_BbtTwn1yxEVX567tu6dC3RgvN6kOve6Cdld1bIRLcyJ0dFBagaUM4uacZD3fTk5d3e_CjRzqnX4ChmJLGSzHOtJ_8bGbHa9RGlUWQi6-BxbqbM6OIVHUeK5AzV_5JlJOiu2IlXPJLJR62AgabkEglM__DgxJQZFA-gC0zTUui9KgD0SbDSuO9WkGxS1mHODnbLjYUk33eBoZE7WxRj4t-7x22umrHdT8IID4N3KLDrQsEtxSr2pBJJBcEJ-7OLDPPLS7LuCezVHn5oA4tIoLeMsTT=s405-no)
 
 ![Specs on the back of the computer](https://lh3.googleusercontent.com/pw/AP1GczO75iy88OTqahD0Fq14c91cqVsE97WEH35siHdasOovptlGeOqV1J8j7Cl2jDl7Lgi-ccv8hmVlQLtaEMkuG0-ZqyE-A7RdnyCzRa83VYkJKiR35xdl3QjsGvqX-DfnNHeCWG-3DyROYoRERVdmZnSJ4t24eEUSxUsKRTCFZ7CpPJ35OMaWrh8IKXURHG30AvE9jkaLGlQG774M_habhVG5kA4SKewRZ7RApfnIzZpGzbtClPnDBoBm8df3NE5ofZwsL1OQl3dwwkoIchbKxO4HRZwNcnIIv9w62oJzhsBX-oaZpdTKvNvGtL_yFuskpVTZJzRfFRZMuRESg6dQ7K9cwiJPUMkORwUulTfbMglBNmKsP7upT1GGGx-MwmbkURTooIq4T980nUeMFReChVjEgr3VRebHbEP6s1mhukoRaQZ9tDq8jRsJ8X5JATPPIeBkaHJIOWOTeYrkwcS0AgQKWmTRad2NJhE_YWeVZISqy4LPJtEMQI5YFff2GPpQN-OKsesD8M48i4mcQH17HEsERmZK1_2Vqr4DPXzc3WivDQjBZ8JGLDozXyJWT1BwXRqCERiGy33-dTIH3S0BqNMc9nXX8rCQYgwwl0HsvCUDkxVD5KNZDYRRrxfm_HR_fmAaR21XzZd5hILHIqGHNLA7ZN7cyEFePanl1ERd1DdlQ3dgs2gzqRjNfVXNBt_Ky-yF2rqZ-3iYliiOvit_2cAlRDlVS9898BP4tCRx1J1pfiZJJ6uyoHesRv7VDLFGAapGU7wc64Hqfn4DyR7Diii09UQVnE5ixpdxtucIvb_ItF3n6Q9bIBxOxqOmwwadIeJKBdyvVR9dg6I5t9CR3E5WG25PjlZUTXZx1qnIf5wABMbfR_bKU4MmrQOiR8km3Cf3SpQUrNiXeylmE3dXgIrEpGYXBuGnDvSr74pBxo-zc4jtotMXAzjYrMjB_Np0ER9n5VBwrtJAvFYdhAap5HL0E5drAbFgImiA0437JjiTrSdk_j5VPGzzlirpXMzxwC56=s405-no)
+
+UPDATE MARCH 2026: I found another Lenovo with the same screen brightness issue. Turns out there is a fix, and it worked, here it is for your convenience, copy-pasted from Claude:
+
+sudo nano /etc/default/grub
+```
+
+**Step 2 — Find this line:**
+```
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+```
+
+**Step 3 — Add one of the following parameters** (try them one at a time, starting from the top):
+
+The most commonly recommended first attempt is `acpi_backlight=vendor`, added before `quiet splash`: 
+```
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_backlight=vendor"
+```
+
+If that doesn't work, try `acpi_osi=Linux` either alone or combined:
+```
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi=Linux acpi_backlight=vendor"
+```
+
+Another option that has worked for some users is an empty `acpi_osi` value, which disables the `_OSI` method entirely: 
+```
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi= "
