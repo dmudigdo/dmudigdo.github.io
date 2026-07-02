@@ -5,13 +5,13 @@ categories: eco-household
 comments: true
 ---
 
-I have been making my own yoghurt for a few years now. It is cheaper than buying it, surprisingly easy, and I find it rather satisfying. While visiting my Mum in Bekasi, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would MacGyver do?
+I have been making my own yoghurt for a few years now. It is cheaper than buying, surprisingly easy, and I find it rather satisfying. While visiting my Mum in Bekasi, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would MacGyver do?
 
-I started with 1 litre of UHT milk and a small tub of yoghurt.
+I started with 1 litre of UHT milk and a small tub of yoghurt from the local supermarket.
 
 <image>
 
-First, I boiled the milk, then cooled it down to what I thought was the correct temperature. I didn't have my food thermometer, so I had to use the dip-the-finger technique that was first taught to me a few years ago by a Sri Lankan friend when I first learnt to make yoghurt. I blended some of the heated milk with about half the tub of yoghurt, then mixed it all together.
+First, I boiled the milk, then cooled it down to what I thought was the correct temperature. I didn't have my food thermometer, so I had to use the dip-the-finger technique that was first taught to me a few years ago by my Sri Lankan friend when I first learnt to make yoghurt. I blended some of the heated milk with about half the tub of yoghurt, then mixed it all together.
 
 <image>
 
@@ -27,6 +27,6 @@ Five to six hours later, I had smooth yoghurt, but it wasn't as solid as I liked
 
 <image>
 
-The next day, it still wasn't as solid as I liked, but it was definitely an improvement. I had it with banana and peanuts, Mum liked it so the experiment was a success.
+The next day, it still wasn't as solid as I liked, but it was definitely an improvement. I served it with banana and peanuts, Mum liked it so the experiment was a success.
 
-So not my finest batch, but considering it was made with improvised equipment in tropical Indonesia, it's pretty good. Making your own yoghurt ticks the boxes: you know exactly what goes into it, without the thickeners/stabilisersetc., and you avoid yet another plastic tub heading for the recycling bin. Most importantly, it's simply fun. There is something deeply satisfying about turning nothing more than milk and a spoonful of yoghurt into breakfast for the next week.
+So not my finest batch, but considering it was made with improvised equipment in tropical Indonesia, it's pretty good. Making your own yoghurt ticks the boxes: you know exactly what goes into it, without the thickeners/stabilisersetc., and you avoid yet another plastic tub heading for the recycling bin. Most importantly, it's quite fun. There is something deeply satisfying about turning milk and a spoonful of yoghurt into breakfast for the next week.
