@@ -5,7 +5,7 @@ categories: eco-household
 comments: true
 ---
 
-I have been making my own yoghurt for a few years now. It is cheaper than buying it, surprisingly easy, and I find it rather satisfying. While visiting my Mum in Bekasi, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise.
+I have been making my own yoghurt for a few years now. It is cheaper than buying it, surprisingly easy, and I find it rather satisfying. While visiting my Mum in Bekasi, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would MacGyver do?
 
 I started with 1 litre of UHT milk and a small tub of yoghurt.
 
