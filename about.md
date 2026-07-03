@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Didi Mudigdo
+description: "Didi Mudigdo's blog background: a brief history on how he started blogging about tech/sustainability 20 years after ending his first blog that focused on music."
 permalink: /about/
 ---
 
