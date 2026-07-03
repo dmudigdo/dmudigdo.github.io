@@ -5,7 +5,7 @@ categories: eco-household
 comments: true
 ---
 
-I have been making my own yoghurt for a few years now. It is cheaper than buying, surprisingly easy, and I find it rather satisfying. While visiting my Mum in Bekasi, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would MacGyver do?
+I have been making my own yoghurt for a few years now. It is cheaper than buying, surprisingly easy, and I find it rather satisfying. While visiting my Mum in [Bekasi](https://www.google.com/maps/place/Bekasi,+West+Java/@-6.2848004,101.696685,6z/data=!4m6!3m5!1s0x2e698d8546ad633d:0x79e8de8965402078!8m2!3d-6.2733758!4d106.9830865!16zL20vMDY1dG4x?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D), Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would MacGyver do?
 
 I started with 1 litre of UHT milk and a small tub of yoghurt from the local supermarket.
 
@@ -17,7 +17,7 @@ First, I boiled the milk, then cooled it down to what I thought was the correct 
 
 ![Bowl to milk](https://lh3.googleusercontent.com/pw/AP1GczOARrrP8pgpwnSnL3KAyrKSVT7oyM2ilETSCD9PXKJwHnuYtVA2GzCpRHazyq_TRwDx14ccYsZNJhvaIvF9pRbVNUapdYB2c-tHxJGCU-SyxhZfyk50s9YtHGX20s1RNbJZXyB1J21g6_MsqOJLwf-krQ=w400-h400-no){:.img-responsive}
 
-In my early yoghurt-making days, I used a yoghurt maker, essentially a glorified esky, to maintain the optimum temperature of 40°C-ish for as long as possible. These days I use an oven, turning it on and off at two/three-hour intervals to maintain that temperature. But there was no working oven, so I had to improvise. I looked around and found a bucket and cushion that looked like they could do the trick to insulate the yoghurt during the fermentation process.
+In my early yoghurt-making days, I used an [EasiYo yoghurt maker](https://au.easiyo.com/products/black-yogurt-maker){:target=”_blank”}, essentially a glorified esky, to maintain the optimum temperature of 40°C-ish for as long as possible. These days I use an oven, turning it on and off at two/three-hour intervals to maintain that temperature. But there was no working oven, so I had to improvise. I looked around and found a bucket and cushion that looked like they could do the trick to insulate the yoghurt during the fermentation process.
 
 ![Bucket next to cushion](https://lh3.googleusercontent.com/pw/AP1GczPiaOqtr8zYbPiJIu7l8Xum_VN1EHESUfSuksscv2hnSg7w84lVAgkHC_MDMe4e5JsWZVBy1jDOa61CVypW0yEfc0n3_OjCf5624W5KSEFEnqwjxz-Z-b7RStKcVw6HEltPvEQuGfzDOmTegUgKASP_yQ=w400-h400-no){:.img-responsive}
 
