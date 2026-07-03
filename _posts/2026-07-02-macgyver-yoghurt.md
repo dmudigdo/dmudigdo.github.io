@@ -5,7 +5,7 @@ categories: eco-household
 comments: true
 ---
 
-I have been making my own yoghurt for a few years now. It is cheaper than buying, surprisingly easy, and I find it rather satisfying. While visiting my Mum in [Bekasi](https://www.google.com/maps/place/Bekasi,+West+Java/@-6.2848004,101.696685,6z/data=!4m6!3m5!1s0x2e698d8546ad633d:0x79e8de8965402078!8m2!3d-6.2733758!4d106.9830865!16zL20vMDY1dG4x?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D){:target="_blank"}, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would MacGyver do?
+I have been making my own yoghurt for a few years now. It is cheaper than buying, surprisingly easy, and I find it rather satisfying. While visiting my Mum in [Bekasi](https://www.google.com/maps/place/Bekasi,+West+Java/@-6.2848004,101.696685,6z/data=!4m6!3m5!1s0x2e698d8546ad633d:0x79e8de8965402078!8m2!3d-6.2733758!4d106.9830865!16zL20vMDY1dG4x?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D){:target="_blank"}, Indonesia, I found myself craving my usual homemade yoghurt, but in a foreign kitchen without my usual equipment. I decided to experiment and see just how much I could improvise. Faced with this situation, what would [MacGyver](https://en.wikipedia.org/wiki/MacGyver#:~:text=He%20usually%20carries%20a%20roll%20of%20duct%20tape%20in%20his%20back%20pocket%2C%20flattened%20out%20to%20make%20it%20fit){:target="_blank"} do?
 
 I started with 1 litre of UHT milk and a small tub of yoghurt from the local supermarket.
 
