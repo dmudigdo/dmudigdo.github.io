@@ -4,6 +4,8 @@ title: "From Dumpster to Digital Display: Resurrecting Old Tech"
 categories: reos-linux
 comments: true
 ---
+![Digital display at City of Whitehorse Positive Ageing Forum](/assets/images/digital-display-positive-ageing-forum.jpeg)
+
 _Hey you, Windows 7 laptop, what are you doing over there at the back of the drawer? Come out here and do some useful work!_
 
 Burwood Neighbourhood House, the community centre where I work, was invited to have an exhibition stall at the [City of Whitehorse Positive Ageing Forum](https://www.whitehorse.vic.gov.au/residents-and-community/residents/people-and-families/positive-ageing/whitehorse-positive-ageing-forum){:target="_blank"}. What a great opportunity to try and cobble together a digital display from the rescued tech we have at [Burwood Linux Repair Cafe](http://burwoodlinux.tumblr.com){:target="_blank"}.
