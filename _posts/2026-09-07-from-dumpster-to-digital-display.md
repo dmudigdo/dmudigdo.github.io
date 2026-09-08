@@ -38,6 +38,7 @@ At Burwood Linux Repair Cafe we had several dumpster laptops vying for the job, 
 ### OS: MX Linux
 I chose to install [MX Linux](https://mxlinux.org/){:target="_blank"} because it is much lighter than Linux Mint (the preferred distribution of the [Repair Cafe](https://www.repaircafe.org/en/){:target="_blank"} headquarters over in Amsterdam). On top of that, I chose the lightest flavour of MX Linux, Fluxbox. It turned out to be accidentally a good choice because the Fluxbox version came with a hidden gem: `feh`.
 
+<a id="feh"></a>
 ### Display Utility: `feh`
 There are a myriad of options available when it comes to displaying a slideshow of images, but I wanted the most minimalist option. I found `feh`, a command-line utility that simply displays image files contained in a given folder (looking recursively through subfolders if needed).
 
